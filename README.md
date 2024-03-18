@@ -1,47 +1,38 @@
 # Higher Education Institutions in France - Dataset
 
-This repository contains a dataset of higher education institutions in France.  This includes x higher education institutions in France, including universities, universities of applied sciences, colleges of art and music, colleges of public administration, theological universities, and colleges of education.
-This dataset was generated based on the . The data is being made publicly available to promote open science principles [2].
+This repository contains a dataset of higher education institutions in France.  This includes 662 higher education institutions in France, including Universities, Technical Universities, Business Schools, Art Schools, Engineering Schools, Political Science Schools and Health Schools.
 
-L'Onisep (Office national d'information sur les enseignements et les professions) est un opérateur de l’État relevant du ministère de l’Éducation nationale et de la Jeunesse et du ministère de l’Enseignement supérieur et de la Recherche. L'Onisep produit et diffuse toute l'information sur les formations et les métiers. Il offre également des services aux élèves, aux parents et aux équipes éducatives. 
+This dataset was generated based on Open Source datasets provided by the French National Office for Information on Education and Professions (*[ONISEP](https://www.onisep.fr/)*) and the French Ministry of Higher Education and Research (*[Ministère de l’Enseignement supérieur et de la Recherche](https://www.enseignementsup-recherche.gouv.fr/fr)*). It is located in the [./data_source/processed/merged-sieved-dataset.csv](./data_source/processed/merged-sieved-dataset.csv) file.
 
-
-L’Office national d'information sur les enseignements et les professions, plus connu sous l'acronyme ONISEP, est un organisme public français ayant le statut d'établissement public à caractère administratif. La direction (services centraux) est basée à Lognes. 
+The data is being made publicly available to promote open science principles.
 
 ## Data
 
 The data includes the following fields for each institution:
 
 - Id: A unique identifier assigned to each institution.
-- Region: The federal state in which the institution is located.
+- Region: The administrative region in which the institution is located. The islands of Guadeloupe, Guyane, La Réunion, Martinique and Mayotte are all placed in the *Outre-Mer* region.
 - Name: The full name of the institution.
 - Category: Indicates whether the institution is public or private.
 - Url: The website of the institution.
 
 ## Methodology
 
-The methodology for creating the dataset involved obtaining data from two sources: the German federal office for statistics (Destatis)[3] and Hochschulkompass (HSK)[4].
+The methodology for creating the dataset involved obtaining data from two open-source datasets:
 
 
-1. Principal higher secondary education, https://www.data.gouv.fr/fr/datasets/principaux-etablissements-d-enseignement-superieur-mesr/#/resources. "Caractéristiques des principaux établissements d'enseignement supérieur." Provided by the ministry of Higher Education and Research (updated  14 mars 2024, accessed 15 march 2024).
+1. The French Ministry of Higher Education and Research provides a list of the most important secondary Higher Education Institutions [1]. This dataset contains some invalid
+establishments which are removed after manual inspection.
 
-2.Onisep - Idéo-Structures d'enseignement supérieur (Licence ODBL):  https://opendata.onisep.fr/data/5fa586da5c4b6/2-ideo-structures-d-enseignement-superieur.htm?tab=download (higher ed. without URLS)
+2. The *ONISEP* organization provides a dataset of secondary higher education institutions [2]. This dataset is filtered to only keep institution types of interest cited above (Universities, Schools of Eng., ...). Additionally, we only kept institutions that are not sub-institutions, attached to other main structures. This dataset does not contain the website of the institutions, it is thus enriched with another dataset provided by the same governmental institutions [3].
 
-&
+Finally, both processed datasets were merged as they are partly complementary. All entries were manually verified to remove and clarify any incoherencies that were present in these datasets.
 
-Idéo-Actions de formation initiale-Univers enseignement supérieur https://opendata.onisep.fr/data/605344579a7d7/2-ideo-actions-de-formation-initiale-univers-enseignement-superieur.htm?tab=table_605385c5cd64c (all formations with URL)
-
-The data from Destatis was obtained by requesting a list of registered HEIs, which was provided in the form of three spreadsheets. The data from these spreadsheets was then split into four CSV files, including a consolidated file that mapped each HEI to its type based on type-implying abbreviations in the name (`heis-mapped.csv`). However, the dataset did not contain website URLs for each HEI, so the URLs were manually obtained by conducting a Google search for each HEI's name and verifying the website using specific indicators. The resulint dataset is in `heis-mapped-url.csv`.
-
-The HSK dataset was downloaded from the HSK website and converted to a CSV file. The CSV file was then used to verify the website URLs obtained from the manual collection process.
-
-o validate and resolve any differences between the two datasets, a comparison was conducted using an OpenOffice spreadsheet. Funding types were classified into two categories (private and public), and mismatches in HEI types were ignored. Mismatching URLs were checked for redirects to the same destination domain, and mismatches in regions were resolved by checking the address on the website's imprint/contact page. For multiple mismatches, the aforementioned resolutions were applied, thus bringing them down to one difference, making them resolvable again.
-
-Overall, this methodology ensured that the German HEIs dataset contains accurate and reliable information about registered HEIs in Germany. The final data was compiled into the dataset included in this repository.
+Overall, this methodology ensured that the French HEIs dataset contains accurate and reliable information about registered HEIs in France. The data processing we applied can be reproduced by executing the code in the python notebook [./data-processing.ipynb](./data-processing.ipynb).
 
 ## Usage
 
-This data is available under the Creative Commons Zero (CC0) license and can be used for academic research purposes. We encourage the sharing of knowledge and the advancement of research in this field by adhering to open science principles [2].
+This data is available under the Creative Commons Zero (CC0) license and can be used for academic research purposes. We encourage the sharing of knowledge and the advancement of research in this field by adhering to open science principles.
 
 If you use this data in your research, please cite the source and include a link to this repository. To properly attribute this data, please use the following DOI: TBA.
 
@@ -49,12 +40,10 @@ If you use this data in your research, please cite the source and include a link
 
 If you have any updates or corrections to the data, please feel free to open a pull request or contact us directly. Let's work together to keep this data accurate and up-to-date.
 
-## Acknowledgment
-
-TBA.
-
 ## References
 
-1. TBA.
-2. S. Bezjak, A. Clyburne-Sherin, P. Conzett, P. Fernandes, E. Görögh, K. Helbig, B. Kramer, I. Labastida, K. Niemeyer, F. Psomopoulos, T. Ross-Hellauer, R. Schneider, J. Tennant, E. Verbakel, H. Brinken, and L. Heller, Open Science Training Handbook. Zenodo, Apr. 2018. [Online]. Available: [https://doi.org/10.5281/zenodo.1212496]
-3. French National Office for Information on Education and the Professions (*ONISEP*) - Dataset X, Jan 20XX. Available: [x](https://www.onisep.fr/) (Accessed March 2024).
+1. Main higher education establishments provided by the Ministry of Higher Education and Research. Available: [data.gouv.fr/fr/datasets/principaux-etablissements-d-enseignement-superieur-mesr](https://www.data.gouv.fr/fr/datasets/principaux-etablissements-d-enseignement-superieur-mesr/#/resources) (accessed 15 March 2024).
+
+2. French National Office for Information on Education and the Professions (*ONISEP*) - Dataset on secondary Higher Education Structures. Available: [opendata.onisep.fr/data/5fa586da5c4b6/2-ideo-structures-d-enseignement-superieur.htm](https://opendata.onisep.fr/data/5fa586da5c4b6/2-ideo-structures-d-enseignement-superieur.htm) (Accessed March 2024).
+
+3. French National Office for Information on Education and the Professions (*ONISEP*) - Dataset on diplomas issued by Higher Education institutions. Available: [opendata.onisep.fr/data/605344579a7d7/2-ideo-actions-de-formation-initiale-univers-enseignement-superieur.htm](https://opendata.onisep.fr/data/605344579a7d7/2-ideo-actions-de-formation-initiale-univers-enseignement-superieur.htm) (Accessed March 2024).
