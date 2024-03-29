@@ -1,8 +1,8 @@
 # Higher Education Institutions in France - Dataset
 
-This repository contains a dataset of higher education institutions in France.  This includes 662 higher education institutions in France, including Universities, Technical Universities, Business Schools, Art Schools, Engineering Schools, Political Science Schools and Health Schools.
+This repository contains a dataset of higher education institutions in France.  This includes 720 higher education institutions in France consisting of Universities and Business, Art, Political Science & Engineering Schools.
 
-This dataset was generated based on Open Source datasets provided by the French National Office for Information on Education and Professions (*[ONISEP](https://www.onisep.fr/)*) and the French Ministry of Higher Education and Research (*[Ministère de l’Enseignement supérieur et de la Recherche](https://www.enseignementsup-recherche.gouv.fr/fr)*). It is located in the [./data_source/processed/merged-sieved-dataset.csv](./data_source/processed/merged-sieved-dataset.csv) file.
+This dataset was generated based on Open Source datasets provided by the French National Office for Information on Education and Professions (*[ONISEP](https://www.onisep.fr/)*) and the French Ministry of Higher Education and Research (*[Ministère de l’Enseignement supérieur et de la Recherche](https://www.enseignementsup-recherche.gouv.fr/fr)*). The final dataset we provide is located at the following location, [./data_source/processed/merged-sieved-dataset.csv](./data_source/processed/merged-sieved-dataset.csv).
 
 The data is being made publicly available to promote open science principles.
 
@@ -16,19 +16,21 @@ The data includes the following fields for each institution:
 - Category: Indicates whether the institution is public or private.
 - Url: The website of the institution.
 
+![](./distribution_by_region_and_financement.png)
+
 ## Methodology
 
-The methodology for creating the dataset involved obtaining data from two open-source datasets:
+The methodology for creating the dataset involved obtaining data from two open-source datasets is defined below and can be reproduced by executing the python notebook [./data-processing.ipynb](./data-processing.ipynb).
 
 
-1. The French Ministry of Higher Education and Research provides a list of the most important secondary Higher Education Institutions [1]. This dataset contains some invalid
-establishments which are removed after manual inspection.
+1. The *ONISEP* organization provides a dataset of secondary higher education institutions[2]. This dataset is filtered to only keep institution types of interest (Universities and Business, Art, Political Science & Engineering Schools) and those who deliver a diploma of level 6 or above (European Qualification Level). Additionally, we only kept institutions that are not sub-institutions, attached to other main structures. This dataset does not contain the website of the institutions, it is thus merged with another dataset provided by the same governmental institutions[3].
 
-2. The *ONISEP* organization provides a dataset of secondary higher education institutions [2]. This dataset is filtered to only keep institution types of interest cited above (Universities, Schools of Eng., ...). Additionally, we only kept institutions that are not sub-institutions, attached to other main structures. This dataset does not contain the website of the institutions, it is thus enriched with another dataset provided by the same governmental institutions [3].
+2. The French Ministry of Higher Education and Research provides a list of the most important secondary Higher Education Institutions[1]. This dataset contains some
+establishments without a URL or located abroad (french high schools abroad), which are removed after manual inspection.
 
-Finally, both processed datasets were merged as they are partly complementary. All entries were manually verified to remove and clarify any incoherencies that were present in these datasets.
+Finally, both processed datasets were merged as they are partly complementary. All entries were manually verified to remove and clarify any incoherencies that were present in these datasets. The tables are merged based on a unique identifier provided by the French government (UAI code). In France, several institutions have several locations around the country. To tackle this, we remove all duplicate Institutions which are located in the same region. To not bias certain regions, our dataset thus contains duplicate url's from institutions that have institutions in several regions.
 
-Overall, this methodology ensured that the French HEIs dataset contains accurate and reliable information about registered HEIs in France. The data processing we applied can be reproduced by executing the code in the python notebook [./data-processing.ipynb](./data-processing.ipynb).
+Overall, this methodology ensured that the French HEIs dataset contains accurate and reliable information about registered HEIs in France.
 
 ## Usage
 

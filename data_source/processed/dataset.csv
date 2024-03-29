@@ -1,0 +1,721 @@
+ID,Name,Category,Region,Url
+0,École normale supérieure de Lyon,public,Auvergne-Rhône-Alpes,www.ens-lyon.eu
+1,Ecole supérieure d'économie d'art et de communication,private,Auvergne-Rhône-Alpes,www.ecole-eac.com
+2,CESI Ecole d'ingénieurs - campus de Lyon,private,Auvergne-Rhône-Alpes,ecole-ingenieurs.cesi.fr
+3,Ecole centrale de Lyon,public,Auvergne-Rhône-Alpes,www.ec-lyon.fr
+4,La CinéFabrique,private,Auvergne-Rhône-Alpes,cinefabrique.fr
+5,e-artsup Lyon,private,Auvergne-Rhône-Alpes,www.e-artsup.net
+6,IDRAC Business School,private,Auvergne-Rhône-Alpes,idrac-bs.fr
+7,École nationale supérieure d'arts et métiers - campus Arts et Métiers de Chambéry,public,Auvergne-Rhône-Alpes,artsetmetiers.fr
+8,Centre de formation des enseignants de la musique,public,Auvergne-Rhône-Alpes,www.cefedem-aura.org
+9,Institut supérieur de gestion,private,Auvergne-Rhône-Alpes,www.isg.fr
+10,Institut commercial lyonnais,private,Auvergne-Rhône-Alpes,www.icl.fr
+11,Ecole de Condé Lyon,private,Auvergne-Rhône-Alpes,www.ecoles-conde.com
+12,Builders Ecole d'ingénieurs - site de Lyon (exESITC Lyon),private,Auvergne-Rhône-Alpes,www.builders-ingenieurs.fr
+13,ÉSEC Lyon (ARFIS),private,Auvergne-Rhône-Alpes,www.esec.fr
+14,ESC Clermont Business School,private,Auvergne-Rhône-Alpes,www.esc-clermont.fr
+15,European School of Administration and Management,private,Auvergne-Rhône-Alpes,www.esam-ecoles.com
+16,Campus de Saint-Etienne de l'Institut d'Etudes Politiques de Lyon,public,Auvergne-Rhône-Alpes,www.sciencespo-lyon.fr
+17,Ecole supérieure de commerce d'Annecy,private,Auvergne-Rhône-Alpes,escannecy.com
+18,Institut de formation aux affaires et à la gestion,private,Auvergne-Rhône-Alpes,www.ifag.com
+19,Ecole nationale supérieure des mines de Saint-Etienne - site de Saint-Etienne,public,Auvergne-Rhône-Alpes,www.mines-stetienne.fr
+20,Ecole nationale supérieure des arts et techniques du théâtre,public,Auvergne-Rhône-Alpes,www.ensatt.fr
+21,Vatel - campus de Lyon,private,Auvergne-Rhône-Alpes,www.vatel.fr
+22,Bellecour école,private,Auvergne-Rhône-Alpes,www.bellecour.fr
+23,Ecole supérieure du commerce extérieur,private,Auvergne-Rhône-Alpes,www.esce.fr
+24,ESUP Lyon,private,Auvergne-Rhône-Alpes,www.esup.fr
+25,MBway Grenoble,private,Auvergne-Rhône-Alpes,www.mbway.com
+26,ESMOD international,private,Auvergne-Rhône-Alpes,www.esmod.com
+27,"AMOS - Sport Business School, campus de Lyon",private,Auvergne-Rhône-Alpes,www.amos-business-school.eu
+28,Ecole de gestion et de commerce Centre Est - Campus de Bourg-en-Bresse,private,Auvergne-Rhône-Alpes,www.bachelor-egc.fr
+29,Ecole nationale supérieure d'architecture de Clermont-Ferrand,public,Auvergne-Rhône-Alpes,www.clermont-fd.archi.fr
+30,IPAC,private,Auvergne-Rhône-Alpes,www.ipac-france.com
+31,Ecole supérieure des métiers artistiques,private,Auvergne-Rhône-Alpes,www.esma-artistique.com
+32,Ecole centrale d'électronique - Groupe ECE - campus de Lyon,private,Auvergne-Rhône-Alpes,www.ece.fr
+33,Centre d'études franco-américain de management,private,Auvergne-Rhône-Alpes,www.cefam.fr
+34,Institut d'optique théorique et appliquée - campus de Saint-Etienne,private,Auvergne-Rhône-Alpes,www.institutoptique.fr
+35,INSEEC Grande Ecole,private,Auvergne-Rhône-Alpes,www.inseec.com
+36,ENTPE Lyon,public,Auvergne-Rhône-Alpes,www.entpe.fr
+37,Campus Sciences U Lyon,private,Auvergne-Rhône-Alpes,www.sciences-u-lyon.fr
+38,Ecole supérieure d'art et design Grenoble-Valence,public,Auvergne-Rhône-Alpes,www.esad-gv.fr
+39,emlyon business school,private,Auvergne-Rhône-Alpes,em-lyon.com
+40,Ecole de gestion et de commerce Nord-Isère,private,Auvergne-Rhône-Alpes,www.occigene-formations.fr
+41,Annexe de l'ENSBA-Lyon,public,Auvergne-Rhône-Alpes,www.ensba-lyon.fr
+42,Burgundy School of Business,private,Auvergne-Rhône-Alpes,www.bsb-education.com
+43,Ecole Brassart Grenoble,private,Auvergne-Rhône-Alpes,www.brassart.fr
+44,Université Savoie Mont Blanc,public,Auvergne-Rhône-Alpes,www.polytech.univ-smb.fr
+45,ESSCA école de management,private,Auvergne-Rhône-Alpes,www.essca.fr
+46,EKLYA School of business campus de Saint Etienne,private,Auvergne-Rhône-Alpes,eklya.fr
+47,"Ecole supérieure de Chimie, Physique, Electronique de Lyon",private,Auvergne-Rhône-Alpes,www.cpe.fr
+48,Studio M,private,Auvergne-Rhône-Alpes,www.studio-m.fr
+49,Ecole nationale supérieure d'architecture de Grenoble,public,Auvergne-Rhône-Alpes,www.grenoble.archi.fr
+50,SUPDEMOD - Fashion design and business school,private,Auvergne-Rhône-Alpes,www.supdemod.eu
+51,ITECH Lyon,private,Auvergne-Rhône-Alpes,www.itech.fr
+52,Ecole supérieure d'art de Clermont Métropole,public,Auvergne-Rhône-Alpes,www.esacm.fr
+53,GRIM-EDIF,private,Auvergne-Rhône-Alpes,www.grimedif.com
+54,Grenoble Ecole de Management,private,Auvergne-Rhône-Alpes,www.grenoble-em.com
+55,Ecole Emile Cohl,private,Auvergne-Rhône-Alpes,www.cohl.fr
+56,Institut supérieur d'agriculture Rhône-Alpes - campus de Lyon,private,Auvergne-Rhône-Alpes,www.isara.fr
+57,Institut national des sciences appliquées de Lyon - site de Lyon,public,Auvergne-Rhône-Alpes,www.insa-lyon.fr
+58,Ecole de gestion et de commerce de Valence,private,Auvergne-Rhône-Alpes,ecole-commerce-valence.fr
+59,Ecole nationale supérieure d'architecture de Lyon,public,Auvergne-Rhône-Alpes,www.lyon.archi.fr
+60,École catholique d'arts et métiers de la Fondation ECAM LaSalle - site de Lyon,private,Auvergne-Rhône-Alpes,www.ecam.fr
+61,Institut supérieur de biotechnologies de Paris - campus de Lyon,private,Auvergne-Rhône-Alpes,www.supbiotech.fr
+62,Ecole supérieure d'art Annecy Alpes,public,Auvergne-Rhône-Alpes,www.esaaa.fr
+63,ESME - campus de Lyon,private,Auvergne-Rhône-Alpes,www.esme.fr
+64,École polytechnique universitaire de l'Université Lyon 1 - site de Bourg-en-Bresse,public,Auvergne-Rhône-Alpes,polytech.univ-lyon1.fr
+65,L'Ecole by CCI - Campus Digital,public,Auvergne-Rhône-Alpes,www.lecole-cci.fr
+66,Institut Lyfe (ex Institut Paul Bocuse),private,Auvergne-Rhône-Alpes,www.institutlyfe.com
+67,EKLYA - School of business - campus de Lyon,private,Auvergne-Rhône-Alpes,www.eklya.fr
+68,"ESAIL, école de design intérieur et d’architecture intérieure",private,Auvergne-Rhône-Alpes,www.esail.fr
+69,3A - L'école internationale du management responsable,private,Auvergne-Rhône-Alpes,www.ecole3a.edu
+70,Université Claude Bernard - Lyon 1,public,Auvergne-Rhône-Alpes,www.univ-lyon1.fr
+71,VetAgro Sup - campus agronomique de Clermont,public,Auvergne-Rhône-Alpes,www.vetagro-sup.fr
+72,Université Grenoble Alpes,public,Auvergne-Rhône-Alpes,www.univ-grenoble-alpes.fr
+73,AgroParisTech - Centre de Clermont-Ferrand,public,Auvergne-Rhône-Alpes,www.agroparistech.fr
+74,Université Jean Moulin - Lyon 3,public,Auvergne-Rhône-Alpes,www.univ-lyon3.fr
+75,Institut catholique de Lyon,private,Auvergne-Rhône-Alpes,www.ucly.fr
+76,Université Lumière - Lyon 2,public,Auvergne-Rhône-Alpes,www.univ-lyon2.fr
+77,Ecole supérieure d'art et design de Saint-Etienne,public,Auvergne-Rhône-Alpes,www.citedudesign.com
+78,Institut de management des industries de la santé (groupe IGS),private,Auvergne-Rhône-Alpes,www.imislyon.com
+79,Université Jean Monnet Saint-Etienne,public,Auvergne-Rhône-Alpes,www.univ-st-etienne.fr
+80,Ecole d'enseignement aux arts appliqués et à l'image,private,Auvergne-Rhône-Alpes,www.enaai.fr
+81,École nationale supérieure des sciences de l'information et des bibliothèques,public,Auvergne-Rhône-Alpes,www.enssib.fr
+82,Institut supérieur Architecture intérieure,private,Auvergne-Rhône-Alpes,www.cread.fr
+83,Supcréa,private,Auvergne-Rhône-Alpes,www.supcrea.com
+84,Ecole nationale d'ingénieurs de Saint-Etienne de l'école centrale de Lyon,public,Auvergne-Rhône-Alpes,www.enise.fr
+85,Ecole nationale supérieure d'architecture de Saint-Etienne,public,Auvergne-Rhône-Alpes,www.st-etienne.archi.fr
+86,Université de Franche-Comté,public,Bourgogne-Franche-Comté,www.univ-fcomte.fr
+87,Institut de formation aux affaires et à la gestion,private,Bourgogne-Franche-Comté,www.ifag.com
+88,École de gestion et de commerce Centre Est - campus de Chalon-sur-Saône,private,Bourgogne-Franche-Comté,www.bachelor-egc.fr
+89,École supérieure de musique Bourgogne-Franche-Comté,public,Bourgogne-Franche-Comté,www.esmbourgognefranchecomte.fr
+90,Ecole de management commercial de Lons-Le-Saunier,private,Bourgogne-Franche-Comté,www.emc-jura.fr
+91,Université de technologie de Belfort-Montbéliard - campus de Belfort,public,Bourgogne-Franche-Comté,www.utbm.fr
+92,École nationale supérieure d'art de Dijon,public,Bourgogne-Franche-Comté,www.ensa-dijon.fr
+93,Institut Agro Dijon,public,Bourgogne-Franche-Comté,institut-agro-dijon.fr
+94,ESTA - Ecole supérieure des technologies et des affaires de Belfort,private,Bourgogne-Franche-Comté,www.esta-groupe.fr
+95,INSEEC,private,Bourgogne-Franche-Comté,www.inseec.com
+96,Université de Bourgogne,public,Bourgogne-Franche-Comté,www.u-bourgogne.fr
+97,École spéciale des travaux publics du bâtiment et de l'industrie - campus de Dijon,private,Bourgogne-Franche-Comté,www.estp.fr
+98,École nationale supérieure d'arts et métiers - campus Arts et Métiers de Cluny,public,Bourgogne-Franche-Comté,artsetmetiers.fr
+99,Burgundy School of Business,private,Bourgogne-Franche-Comté,www.bsb-education.com
+100,École media art,public,Bourgogne-Franche-Comté,www.emafructidor.com
+101,Ecole nationale supérieure de mécanique et des microtechniques,public,Bourgogne-Franche-Comté,www.supmicrotech.fr
+102,École supérieure d'électronique de l'Ouest - campus Dijon,private,Bourgogne-Franche-Comté,www.eseo.fr
+103,CESI Ecole d'ingénieurs - campus de Dijon,private,Bourgogne-Franche-Comté,www.cesi-alternance.fr
+104,Institut Supérieur des Beaux-arts de Besançon,public,Bourgogne-Franche-Comté,www.isba-besancon.fr
+105,Université de Rennes,public,Bretagne,www.univ-rennes.fr
+106,Institut polytechnique UniLaSalle - campus de Rennes - Ecole des métiers de l'environnement,private,Bretagne,rennes.unilasalle.fr
+107,CESI Ecole d'ingénieurs - campus de Brest,private,Bretagne,brest.cesi.fr
+108,Ecole nationale supérieure d'architecture de Bretagne,public,Bretagne,www.rennes.archi.fr
+109,Université Bretagne Sud,public,Bretagne,www.univ-ubs.fr
+110,Ecole supérieure de commerce et développement - 3A,private,Bretagne,www.ecole3a.edu
+111,Ecole nationale supérieure Mines-Télécom Atlantique Bretagne Pays de la Loire - campus de Brest,public,Bretagne,www.imt-atlantique.fr
+112,Institut national supérieur de commerce des affaires et du management groupe ESCCOT,private,Bretagne,www.groupe-esccot.fr
+113,Ecole nationale supérieure de techniques avancées Bretagne,public,Bretagne,www.ensta-bretagne.fr
+114,Rennes School of Business,private,Bretagne,www.rennes-sb.fr
+115,Ecole européenne supérieure d'art de Bretagne - site de Lorient,public,Bretagne,www.eesab.fr
+116,Institut catholique d'arts et métiers - site de Bretagne,private,Bretagne,www.icam.fr
+117,ECAM Rennes - Louis de Broglie,private,Bretagne,www.ecam-rennes.fr
+118,Ecole nationale de la statistique et de l'analyse de l'information,public,Bretagne,www.ensai.fr
+119,Université Rennes 2,public,Bretagne,www.univ-rennes2.fr
+120,Institut supérieur de l'électronique et du numérique Yncréa Ouest - campus de Brest,private,Bretagne,www.isen-brest.fr
+121,Institut de formation aux affaires et à la gestion,private,Bretagne,globalopencampus.com
+122,MJM Graphic Design,private,Bretagne,www.mjm-design.com
+123,Ecole nationale d'ingénieurs de Brest,public,Bretagne,www.enib.fr
+124,Université de Bretagne Occidentale,public,Bretagne,www.univ-brest.fr
+125,ESG Rennes,private,Bretagne,www.esg.fr
+126,Ecole navale,public,Bretagne,www.ecole-navale.fr
+127,CentraleSupélec - campus de Rennes,public,Bretagne,www.rennes.centralesupelec.fr
+128,EMBA Business School,private,Bretagne,www.emba-bs.com
+129,Institut Agro Rennes Angers - campus de Rennes,public,Bretagne,www.institut-agro-rennes-angers.fr
+130,Ecole spéciale militaire de Saint-Cyr,public,Bretagne,www.terre.defense.gouv.fr
+131,Ecole supérieure d'ingénieurs de Rennes - campus de Saint-Brieuc,public,Bretagne,esir.univ-rennes.fr
+132,Brest Business School,private,Bretagne,brest-bs.com
+133,Le Pont Supérieur - Pôle d'enseignement supérieur spectacle vivant Bretagne-Pays de la Loire - Site de Rennes,public,Bretagne,www.lepontsuperieur.eu
+134,L'institut supérieur des arts appliqués - LISAA Rennes,private,Bretagne,www.lisaa.com
+135,Ecole nationale supérieure Mines-Télécom Atlantique Bretagne Pays de la Loire - campus de Rennes,public,Bretagne,www.telecom-bretagne.eu
+136,Institut catholique de Rennes,private,Bretagne,www.icrennes.org
+137,Junia Ecole des hautes études d'ingénieur - campus de Châteauroux,private,Centre-Val de Loire,www.junia.com
+138,CESI Ecole d'ingénieurs - campus d'Orléans,private,Centre-Val de Loire,ecole-ingenieurs.cesi.fr
+139,Ecole nationale supérieure d'art,public,Centre-Val de Loire,www.ensa-bourges.fr
+140,Ecole supérieure d'art et de design,public,Centre-Val de Loire,esadorleans.fr
+141,Excelia Business School,private,Centre-Val de Loire,www.excelia-group.fr
+142,École spéciale des travaux publics du bâtiment et de l'industrie - campus d'Orléans,private,Centre-Val de Loire,www.estp.fr
+143,AgroParisTech - Centre d'Orléans,public,Centre-Val de Loire,www.univ-orleans.fr
+144,École supérieure d'art et de design TALM-Tours,public,Centre-Val de Loire,esad-talm.fr
+145,Institut supérieur du commerce de Paris,private,Centre-Val de Loire,www.iscparis.com
+146,Ecole des techniques de l'image de communication,public,Centre-Val de Loire,etic-blois.com
+147,Institut national des sciences appliquées Centre-Val de Loire - site de Bourges,public,Centre-Val de Loire,www.insa-centrevaldeloire.fr
+148,Ecole Brassart Tours,private,Centre-Val de Loire,www.brassart.fr
+149,Université de Tours,public,Centre-Val de Loire,www.univ-tours.fr
+150,e-artsup Tours,private,Centre-Val de Loire,www.e-artsup.net
+151,Université de Corse Pasquale Paoli,public,Corse,www.universita.corsica
+152,Kedge Business School,private,Corse,kedge.edu
+153,ESSCA école de management,private,Grand Est,www.essca.fr
+154,CentraleSupélec - campus de Metz,public,Grand Est,www.metz.centralesupelec.fr
+155,Institut national du service public,public,Grand Est,insp.gouv.fr
+156,AgroParisTech - Centre de Nancy,public,Grand Est,www.agroparistech.fr
+157,Ecole supérieure de commerce des 3 frontières,private,Grand Est,esc-3frontieres.fr
+158,e-artsup Strasbourg,private,Grand Est,www.e-artsup.net
+159,Université de Haute-Alsace,public,Grand Est,www.uha.fr
+160,South Champagne Business School - Groupe Y SCHOOLS,private,Grand Est,www.scbs-education.com
+161,Ecole nationale supérieure des arts de la marionnette,public,Grand Est,marionnette.com
+162,EPF école d'ingénieurs généralistes - site de Troyes,private,Grand Est,www.epf.fr
+163,Ecole Brassart Strasbourg,private,Grand Est,www.brassart.fr
+164,Ecole de Condé Nancy,private,Grand Est,ecoles-conde.com
+165,Haute école des arts du Rhin - Site d'arts plastiques de Mulhouse,public,Grand Est,www.hear.fr
+166,MJM Graphic Design,private,Grand Est,www.mjm-design.com
+167,École Supérieure de Tourisme site de Troyes - Groupe Y SCHOOLS,private,Grand Est,www.ecolesuperieuretourisme.fr
+168,Ecole Supérieure de Tourisme site de Metz - Groupe Y SCHOOLS,private,Grand Est,ecolesuperieuretourisme.fr
+169,Neoma Business School,private,Grand Est,neoma-bs.fr
+170,Ecole supérieure d'art de Lorraine - site Epinal,public,Grand Est,www.esal-epinal.fr
+171,Ecole supérieure de design de Troyes - Groupe Y SCHOOLS,private,Grand Est,ecolededesign.fr
+172,Ecole supérieure du soudage et de ses applications,private,Grand Est,www.essa-eaps.isgroupe.com
+173,École nationale supérieure d'art et de design de Nancy,public,Grand Est,ensad-nancy.eu
+174,Ecole supérieure d'art et de design de Reims,public,Grand Est,esad-reims.fr
+175,Université de technologie de Troyes - site de Troyes,public,Grand Est,www.utt.fr
+176,Université de Reims Champagne-Ardenne,public,Grand Est,www.univ-reims.fr
+177,Ecole nationale supérieure d'architecture de Strasbourg,public,Grand Est,www.strasbourg.archi.fr
+178,CESI Ecole d'ingénieurs - campus de Reims,private,Grand Est,ecole-ingenieurs.cesi.fr
+179,Ecole supérieure d'art dramatique du Théâtre National de Strasbourg,public,Grand Est,www.tns.fr
+180,École nationale supérieure d'arts et métiers - campus Arts et Métiers de Châlons-en-Champagne,public,Grand Est,artsetmetiers.fr
+181,Institut catholique d'arts et métiers - site de Strasbourg-Europe,private,Grand Est,icam-strasbourg.eu
+182,Institut national des sciences appliquées de Strasbourg,public,Grand Est,www.insa-strasbourg.fr
+183,Ecole nationale supérieure de cirque,public,Grand Est,www.cnac.fr
+184,Université de Strasbourg,public,Grand Est,www.unistra.fr
+185,Négoventis - CCI Formation EESC,private,Grand Est,cciformation-eesc.fr
+186,L'iconograf,private,Grand Est,www.liconograf.com
+187,ICN Business School,private,Grand Est,www.icn-artem.com
+188,École nationale du génie de l'eau et de l'environnement de Strasbourg,public,Grand Est,engees.unistra.fr
+189,CESI Ecole d'ingénieurs - campus de Strasbourg,private,Grand Est,strasbourg.cesi.fr
+190,École nationale supérieure d'architecture de Nancy,public,Grand Est,www.nancy.archi.fr
+191,Ecole supérieure d'ingénieurs des travaux de la construction de Metz,private,Grand Est,www.esitc-metz.com
+192,Université de Lorraine,public,Grand Est,www.univ-lorraine.fr
+193,International Business School,private,Grand Est,www.isg.fr
+194,Ecole supérieure d'art de Lorraine,public,Grand Est,esalorraine.fr
+195,Ecole supérieure d'art de Lorraine - Pôle Musique et Danse,public,Grand Est,cefedem-lorraine.fr
+196,CESI Ecole d'ingénieurs - campus de Nancy,private,Grand Est,nancy@cesi.fr
+197,L'Institut supérieur des arts appliqués - LISAA Strasbourg,private,Grand Est,www.lisaa.com
+198,IG2I - Institut de Génie Informatique et Industriel,public,Hauts-de-France,ig2i.centralelille.fr
+199,Institut polytechnique UniLaSalle - campus d'Amiens,private,Hauts-de-France,www.esiee-amiens.fr
+200,"Ecole supérieure d'art du Nord Pas de Calais, site de Tourcoing",public,Hauts-de-France,www.esa-n.info
+201,Ecole supérieure de commerce d'Amiens,private,Hauts-de-France,www.esc-amiens.com
+202,Université de Picardie Jules-Verne,public,Hauts-de-France,www.u-picardie.fr
+203,École nationale supérieure d'arts et métiers - campus Arts et Métiers de Lille,public,Hauts-de-France,artsetmetiers.fr
+204,Ecole de gestion et de commerce de Lille,private,Hauts-de-France,www.egc-lille.com
+205,École des hautes études commerciales du nord,private,Hauts-de-France,www.edhec.com
+206,CESI Ecole d'ingénieurs - campus de Lille,private,Hauts-de-France,ecole-ingenieurs.cesi.fr
+207,Ecole supérieure de commerce de Compiègne,private,Hauts-de-France,www.esc-compiegne.com
+208,Université du Littoral Côte d’Opale,public,Hauts-de-France,www.univ-littoral.fr
+209,MJM Graphic Design,private,Hauts-de-France,www.mjm-design.com
+210,"AMOS - Sport Business School, campus de Lille",private,Hauts-de-France,www.amos-business-school.eu
+211,Ecole supérieure de chimie organique et minérale,private,Hauts-de-France,www.escom.fr
+212,Ecole supérieure musique et danse Hauts-de-France,private,Hauts-de-France,www.esmd.fr
+213,Ecole du Nord,public,Hauts-de-France,www.theatredunord.fr
+214,École Centrale de Lille,public,Hauts-de-France,ecole.centralelille.fr
+215,Université de Lille,public,Hauts-de-France,www.univ-lille.fr
+216,Université d'Artois,public,Hauts-de-France,www.univ-artois.fr
+217,ESMOD International,private,Hauts-de-France,www.esmod.com
+218,Institut catholique de Lille,private,Hauts-de-France,www.univ-catholille.fr
+219,ENSCL - Ecole Nationale Supérieure de Chimie de Lille,public,Hauts-de-France,www.ensc-lille.fr
+220,e-artsup Lille,private,Hauts-de-France,www.e-artsup.net
+221,Institut polytechnique UniLaSalle - campus de Beauvais,private,Hauts-de-France,www.unilasalle.fr
+222,Ecole supérieure d'art et de communication de Cambrai,public,Hauts-de-France,www.esac-cambrai.net
+223,Ecole nationale supérieure Mines-Télécom Nord Europe - campus de Douai,public,Hauts-de-France,imt-nord-europe.fr
+224,Ecole du management de la culture et du marché de l'art,private,Hauts-de-France,www.icart.fr
+225,IPAC Bachelor Factory,private,Hauts-de-France,www.ipacbachelorfactory.com
+226,Centrale Lille Institut,public,Hauts-de-France,centralelille.fr
+227,ECV Creative Schools & Community,private,Hauts-de-France,www.ecv.fr
+228,ITEEM,public,Hauts-de-France,iteem.centralelille.fr
+229,Le Fresnoy - Studio national des arts contemporains,public,Hauts-de-France,www.lefresnoy.net
+230,Université polytechnique Hauts-de-France,public,Hauts-de-France,www.insa-hautsdefrance.fr
+231,Junia,private,Hauts-de-France,www.junia.com
+232,École d'ingénieurs des sciences aérospatiales  - campus de Saint-Quentin,private,Hauts-de-France,www.elisa-aerospace.fr
+233,Institut de formation aux affaires et à la gestion,private,Hauts-de-France,www.ifag.com
+234,ESME - campus de Lille,private,Hauts-de-France,www.esme.fr
+235,SKEMA Business School,private,Hauts-de-France,www.skema-bs.fr
+236,Institut supérieur d'agriculture de Lille,private,Hauts-de-France,www.isa-lille.fr
+237,Université de technologie de Compiègne,public,Hauts-de-France,www.utc.fr
+238,Institut d'économie scientifique et de gestion,private,Hauts-de-France,www.ieseg.fr
+239,Ecole supérieure d'art et de design,public,Hauts-de-France,www.esad-amiens.fr
+240,Hautes études d'ingénieur,private,Hauts-de-France,www.hei.fr
+241,École nationale des ponts et chaussées,public,Ile-de-France,www.ecoledesponts.fr
+242,IDRAC Business School,private,Ile-de-France,idrac-bs.fr
+243,Institut supérieur de biotechnologies de Paris - campus de Villejuif,private,Ile-de-France,www.supbiotech.fr
+244,"Institut national du sport, de l'expertise et de la performance",public,Ile-de-France,www.insep.fr
+245,Institut national supérieur de formation et de recherche pour l'éducation inclusive,public,Ile-de-France,www.inshea.fr
+246,The School of Advanced Management and Finance,private,Ile-de-France,www.esam-ecoles.com
+247,Institut polytechnique de Paris,public,Ile-de-France,www.ip-paris.fr
+248,Université Paris Cité,public,Ile-de-France,u-paris.fr
+249,Université de Versailles Saint-Quentin-en-Yvelines,public,Ile-de-France,www.uvsq.fr
+250,IAE Paris - Sorbonne Business School,public,Ile-de-France,www.iae-paris.com
+251,Institut d'études supérieures des arts,private,Ile-de-France,www.iesa.fr
+252,Conservatoire national des arts et métiers,public,Ile-de-France,www.cnam.fr
+253,École supérieure d'électronique de l'Ouest - campus Paris-Vélizy,private,Ile-de-France,www.eseo.fr
+254,École nationale des sciences géographiques,public,Ile-de-France,www.ensg.eu
+255,"Institut Mines-Télécom, au périmètre des écoles IMT Atlantique, Lille Douai, Albi, Alès, Mines Saint-Étienne et Institut Mines-Télécom Business school",public,Ile-de-France,www.imt.fr
+256,Ecole nationale supérieure du pétrole et des moteurs,public,Ile-de-France,www.ifp-school.com
+257,ICART - L'école de management de la culture et du marché de l'art,private,Ile-de-France,www.icart.fr
+258,Institut de création et d'animation numériques,private,Ile-de-France,www.ican-design.fr
+259,Institut protestant de théologie,private,Ile-de-France,www.iptheologie.fr
+260,Ecole nationale supérieure des Arts Décoratifs,public,Ile-de-France,www.ensad.fr
+261,Ecole spéciale des travaux publics du bâtiment et de l'industrie - campus de Cachan,private,Ile-de-France,www.estp.fr
+262,Institut Mines - Télécom Business School,public,Ile-de-France,www.imt-bs.eu
+263,École nationale vétérinaire d'Alfort,public,Ile-de-France,www.vet-alfort.fr
+264,EDHEC Business School,private,Ile-de-France,www.edhec.com
+265,Ecole internationale de Mode et Luxe,private,Ile-de-France,www.ecoledemode.fr
+266,MJM Graphic Design,private,Ile-de-France,www.mjm-design.com
+267,École nationale supérieure de paysage,public,Ile-de-France,www.ecole-paysage.fr
+268,École française d'Extrême-Orient,public,Ile-de-France,www.efeo.fr
+269,École des hautes études en sciences sociales,public,Ile-de-France,www.ehess.fr
+270,Collège de France,public,Ile-de-France,www.college-de-france.fr
+271,ESIEE Paris,private,Ile-de-France,www.esiee.fr
+272,CY Cergy Paris Université,public,Ile-de-France,www.cyu.fr
+273,Académie internationale de coupe de Paris,private,Ile-de-France,www.aicp.fr
+274,CESI,private,Ile-de-France,www.cesi.fr
+275,Arts et Métiers Sciences et Technologies,public,Ile-de-France,artsetmetiers.fr
+276,Ecole nationale supérieure de création industrielle Les Ateliers,public,Ile-de-France,www.ensci.com
+277,Ecole nationale supérieure d'architecture Paris-Val de Seine,public,Ile-de-France,www.paris-valdeseine.archi.fr
+278,"Institut national d'enseignement supérieur pour l'agriculture, l'alimentation et l'environnement",public,Ile-de-France,www.institut-agro.fr
+279,emlyon business school,private,Ile-de-France,em-lyon.com
+280,Institut polytechnique des sciences avancées - campus d'Ivry-sur-Seine,private,Ile-de-France,www.ipsa.fr
+281,École nationale supérieure d'informatique pour l'industrie et l'entreprise,public,Ile-de-France,www.ensiie.fr
+282,Mod'art International,private,Ile-de-France,www.modart-paris.com
+283,ESIEE-IT,private,Ile-de-France,www.esiee-it.fr
+284,Facultés Libres de Philosophie et de Psychologie,private,Ile-de-France,www.ipc-paris.fr
+285,EPSAA  L'école de communication visuelle de la Ville de Paris,public,Ile-de-France,www.epsaa.fr
+286,Institut national d'histoire de l'art,public,Ile-de-France,www.inha.fr
+287,Institut catholique d'arts et métiers - site de Grand Paris Sud,private,Ile-de-France,www.icam.fr
+288,Webstart - Paris,private,Ile-de-France,ecole-webstart.com
+289,SKEMA Business School,private,Ile-de-France,www.skema-bs.fr
+290,Ecole de management Léonard de Vinci,private,Ile-de-France,www.emlv.fr
+291,Rennes School of Business,private,Ile-de-France,www.rennes-sb.fr
+292,Mode Estah Paris,private,Ile-de-France,www.mode-estah.com
+293,ENSA Versailles,public,Ile-de-France,www.versailles.archi.fr
+294,ISART DIGITAL,private,Ile-de-France,www.isart.fr
+295,Université Paris 8 - Vincennes - Saint-Denis,public,Ile-de-France,www.univ-paris8.fr
+296,Ecole supérieure d'économie d'art et de communication,private,Ile-de-France,www.ecole-eac.com
+297,Atelier Chardon Savard,private,Ile-de-France,www.atelier-chardon-savard.com
+298,Ecole normale de musique Alfred Cortot,private,Ile-de-France,www.ecolenormalecortot.com
+299,École nationale supérieure d'arts et métiers - campus Arts et Métiers de Paris,public,Ile-de-France,www.artsetmetiers.fr
+300,"Sciences Po, campus de Paris",public,Ile-de-France,www.sciencespo.fr
+301,Université Paris sciences et lettres,public,Ile-de-France,www.psl.eu
+302,Ecole supérieure des arts modernes,private,Ile-de-France,www.esamdesign.com
+303,HEC Paris,private,Ile-de-France,www.hec.fr
+304,Académie Charpentier,private,Ile-de-France,www.academiecharpentier.com
+305,Ecole nationale supérieure d'architecture Paris Malaquais,public,Ile-de-France,www.paris-malaquais.archi.fr
+306,CentraleSupélec - campus de Paris-Saclay,public,Ile-de-France,www.centralesupelec.fr
+307,Beaux-Arts de Paris,public,Ile-de-France,www.beauxartsparis.fr
+308,Ecole supérieure du commerce extérieur,private,Ile-de-France,www.esce.fr
+309,Université Paris-Est Créteil,public,Ile-de-France,www.u-pec.fr
+310,Ecole nationale de la statistique et de l'administration économique,public,Ile-de-France,www.ensae.fr
+311,Université Paris-Panthéon-Assas,public,Ile-de-France,www.assas-universite.fr
+312,Ecole Brassart Paris,private,Ile-de-France,www.brassart.fr
+313,Kedge Business School,private,Ile-de-France,kedge.edu
+314,COM'ART,private,Ile-de-France,www.comart-design.com
+315,Atelier de Sèvres,private,Ile-de-France,www.atelierdesevres.com
+316,Ecole supérieure d'ingénieurs des travaux de la construction de Paris,private,Ile-de-France,www.esitc-paris.fr
+317,Université Sorbonne Paris Nord,public,Ile-de-France,www.univ-paris13.fr
+318,Ecole nationale supérieure d'architecture de Paris Belleville,public,Ile-de-France,www.paris-belleville.archi.fr
+319,Institut supérieur de gestion de Paris - International Business School,private,Ile-de-France,www.isg.fr
+320,La Fémis - Ecole nationale supérieure des métiers de l'image et du son,public,Ile-de-France,www.femis.fr
+321,Institut national des langues et civilisations orientales,public,Ile-de-France,www.inalco.fr
+322,EPF école d'ingénieurs généralistes - site de Cachan,private,Ile-de-France,www.epf.fr
+323,Institut National de l'Audiovisuel - Ecole supérieure de l'audiovisuel et des médias numériques,public,Ile-de-France,www.ina-expert.com
+324,EFET Photographie - Campus Paris,private,Ile-de-France,www.efet.fr
+325,Institut technique supérieur du management international,private,Ile-de-France,www.itsmiparis.com
+326,"AMOS - Sport Business School, campus de Paris",private,Ile-de-France,www.amos-business-school.eu
+327,Ecole nationale supérieure de l'électronique et de ses applications,public,Ile-de-France,www.ensea.fr
+328,Créapôle ESDI,private,Ile-de-France,www.creapole.fr
+329,Ecole Intuit-lab,private,Ile-de-France,www.ecole-intuit-lab.com
+330,Muséum national d'histoire naturelle,public,Ile-de-France,www.mnhn.fr
+331,Télécom SudParis - site de Palaiseau,public,Ile-de-France,www.telecom-sudparis.eu
+332,e-artsup Paris,private,Ile-de-France,www.e-artsup.net
+333,Centre des hautes études de la construction,private,Ile-de-France,www.chec.fr
+334,Institut international de l'image et du son - 3IS Education Paris,private,Ile-de-France,3is-education.fr
+335,École supérieure libre d'études cinématographiques,private,Ile-de-France,www.esec.fr
+336,Ecole supérieure de réalisation audiovisuelle,private,Ile-de-France,www.esra.edu
+337,EDC Paris Business School,private,Ile-de-France,www.supdeluxe.fr
+338,The Global American  University - Schiller - Paris Campus,private,Ile-de-France,schiller.edu
+339,Excelia Business School,private,Ile-de-France,www.excelia-group.fr
+340,Ecole internationale de création audiovisuelle et de réalisation,private,Ile-de-France,www.eicar.fr
+341,Académie de bande dessinée Delcourt,private,Ile-de-France,www.academie-bd.fr
+342,Université d'Evry-Val-d'Essonne,public,Ile-de-France,www.univ-evry.fr
+343,Université Paris-Saclay,public,Ile-de-France,www.universite-paris-saclay.fr
+344,ESSCA école de management,private,Ile-de-France,www.essca.fr
+345,La Fabrique,public,Ile-de-France,www.lafabrique-ecole.fr
+346,Ecole supérieure de gestion et finance - Pôle ESG,private,Ile-de-France,www.esgf.com
+347,Ecole Jean Trubert,private,Ile-de-France,www.ecolejeantrubert.com
+348,Institut technique de maquillage,private,Ile-de-France,www.itmparis.com
+349,Ecole du Louvre,public,Ile-de-France,www.ecoledulouvre.fr
+350,Ecole bleue,private,Ile-de-France,www.ecole-bleue.fr
+351,Ecole supérieure d'ingénieurs Léonard de Vinci - campus de Paris,private,Ile-de-France,www.esilv.fr
+352,Ecole nationale supérieure de techniques avancées Paris,public,Ile-de-France,www.ensta-paris.fr
+353,Université Paris 1 - Panthéon Sorbonne,public,Ile-de-France,www.univ-paris1.fr
+354,Ecole Hourdé,private,Ile-de-France,www.ecole-hourde.com
+355,Pôle supérieur d'enseignement artistique Paris Boulogne-Billancourt,public,Ile-de-France,www.pspbb.fr
+356,Neoma Business School,private,Ile-de-France,www.neoma-bs.fr
+357,ESME - campus de Paris,private,Ile-de-France,www.esme.fr
+358,Schola Cantorum,private,Ile-de-France,www.schola-cantorum.com
+359,Pôle supérieur d'enseignement artistique de Seine-Saint-Denis Ile-de-France,public,Ile-de-France,www.polesup93.fr
+360,Institut supérieur du commerce de Paris,private,Ile-de-France,www.iscparis.com
+361,Sorbonne Université,public,Ile-de-France,www.univ-paris3.fr
+362,École supérieure des techniques aéronautiques et de construction automobile - Paris-Saclay,private,Ile-de-France,www.estaca.fr
+363,Ecole supérieure d'informatique électronique automatique - campus de Paris,private,Ile-de-France,www.esiea.fr
+364,ESCP Business School,private,Ile-de-France,escp.eu
+365,Ecole Georges Méliès,private,Ile-de-France,www.ecolegeorgesmelies.fr
+366,Grenoble Ecole de Management,private,Ile-de-France,www.grenoble-em.com
+367,INSEEC Bachelor,private,Ile-de-France,www.inseec.com
+368,IMEP Paris College of Music,private,Ile-de-France,www.imep.pro
+369,Académie internationale de comédie musicale,private,Ile-de-France,aicomparis.com
+370,ESSEC Business School,private,Ile-de-France,www.essec.edu
+371,Centre d'études spécialisé des arts narratifs,private,Ile-de-France,www.cesan.fr
+372,ISAL PARIS,private,Ile-de-France,isal-paris.com
+373,Studio Mode Paris,private,Ile-de-France,www.studiomode.fr
+374,L'École Multimédia,private,Ile-de-France,www.ecole-multimedia.com
+375,Ecole supérieure de commerce et de communication - ESCC Business School,private,Ile-de-France,escc-bs.fr
+376,Ecole supérieure d'architecture des jardins,private,Ile-de-France,www.esaj.asso.fr
+377,Institut Français de la Mode,private,Ile-de-France,www.ifmparis.fr
+378,Ecole Polytechnique,public,Ile-de-France,programmes.polytechnique.edu
+379,Ecole nationale supérieure d'architecture de la ville et des territoires Paris-Est,public,Ile-de-France,www.paris-est.archi.fr
+380,International Fashion Academy (IFA Paris),private,Ile-de-France,www.ifaparis.com
+381,CESI Ecole d'ingénieurs - campus de Paris Nanterre,private,Ile-de-France,ecole-ingenieurs.cesi.fr
+382,The American Business School of Paris - groupe IGS,private,Ile-de-France,www.absparis.com
+383,Audencia Business School,private,Ile-de-France,www.audencia.com
+384,Institut supérieur de mécanique de Paris,public,Ile-de-France,www.isae-supmeca.fr
+385,Vatel -  campus de Paris,private,Ile-de-France,www.vatel.fr
+386,Institut international du commerce et du développement - groupe IGS,private,Ile-de-France,www.icd-ecoles.com
+387,ISTEC Business School Paris,private,Ile-de-France,www.istec.fr
+388,Ecole supérieure de gestion et de commerce,private,Ile-de-France,www.escg-paris.com
+389,Institut supérieur européen de la mode,private,Ile-de-France,www.esmod.com
+390,"Ecole supérieure des métiers de l'image, du son et de la création 2D 3D",private,Ile-de-France,www.emc.fr
+391,Institut national des sciences et techniques nucléaires,public,Ile-de-France,instn.cea.fr
+392,Autograf,private,Ile-de-France,www.autograf.fr
+393,Ecole supérieure de fonderie et de forge,private,Ile-de-France,www.esff.fr
+394,Ecole des beaux-arts de Versailles,public,Ile-de-France,www.versailles.fr
+395,ACTS - Ecole de danse contemporaine de Paris,private,Ile-de-France,www.acts-dance.com
+396,L'Institut supérieur des arts appliqués - LISAA Paris Mode,private,Ile-de-France,www.lisaa.com
+397,Paris College of Art,private,Ile-de-France,www.paris.edu
+398,Studio Mercier,private,Ile-de-France,www.studiomercier.com
+399,ESG Sport,private,Ile-de-France,www.mba-esg.com
+400,Institut national du patrimoine (département des conservateurs),public,Ile-de-France,www.inp.fr
+401,Ecole de dessin technique artistique Sornas,private,Ile-de-France,www.sornas.fr
+402,Ecole nationale des Ponts et Chaussées - site de Champs-sur-Marne,public,Ile-de-France,ecoledesponts.fr
+403,"Ecole supérieure du cinéma, du son et de la musique",private,Ile-de-France,www.esis-paris.fr
+404,ESLSCA Business School Paris,private,Ile-de-France,www.eslsca.fr
+405,Ecole centrale d'électronique - Groupe ECE - campus de Paris,private,Ile-de-France,www.ece.fr
+406,Télécom Paris,public,Ile-de-France,www.telecom-paris.fr
+407,Université Gustave Eiffel,public,Ile-de-France,ecogestion.univ-gustave-eiffel.fr
+408,Strate Ecole de design,private,Ile-de-France,www.strate.design
+409,ISEP - Ecole d'ingénieurs du numérique - site de Paris,private,Ile-de-France,www.isep.fr
+410,Ecole de direction artistique et d'architecture intérieure - Penninghen,private,Ile-de-France,www.penninghen.fr
+411,Institut européen des affaires,private,Ile-de-France,www.ieaparis.fr
+412,Ecole nationale supérieure Louis Lumière,public,Ile-de-France,www.ens-louis-lumiere.fr
+413,EFREI Paris - campus de Villejuif,private,Ile-de-France,www.efrei.fr
+414,Ecole supérieure des agricultures - campus de Paris,private,Ile-de-France,www.groupe-esa.com
+415,ICN Business School,private,Ile-de-France,www.icn-artem.com
+416,Studio M Paris,private,Ile-de-France,www.studio-m.fr
+417,Ecole nationale supérieure d'arts Paris-Cergy,public,Ile-de-France,www.ensapc.fr
+418,Institut catholique de Paris,private,Ile-de-France,www.icp.fr
+419,Istituto Marangoni,private,Ile-de-France,www.istitutomarangoni.com
+420,Ecole supérieure de gestion et commerce international - Pôle ESG,private,Ile-de-France,www.esgci.com
+421,FORMAMOD,private,Ile-de-France,www.formamod.com
+422,Paris School of Business,private,Ile-de-France,www.psbedu.paris
+423,CIFACOM,private,Ile-de-France,www.cifacom.com
+424,"EFFICOM Paris, l'école supérieure en Web, Informatique, Audiovisuel et Design",private,Ile-de-France,www.efficom.fr
+425,L'École des designers Efet Studio Créa,private,Ile-de-France,www.efet-studiocrea.com
+426,EAP PrepaSeine-InfoSeine,private,Ile-de-France,eapseine.fr
+427,ECAM-EPMI - site de Cergy,private,Ile-de-France,www.ecam-epmi.fr
+428,Garti le Plus,private,Ile-de-France,ecolegarti.com
+429,Ecole Conte,private,Ile-de-France,www.ecole-conte.com
+430,Centre des musiques Didier Lockwood,private,Ile-de-France,www.cmdl.eu
+431,Ecole pour l'informatique et les techniques avancées - site du Kremlin-Bicêtre,private,Ile-de-France,www.epita.fr
+432,INSEEC,private,Ile-de-France,masters.inseec.com
+433,ECV Creative Schools & Community Paris,private,Ile-de-France,www.ecv.fr
+434,Conservatoire européen d'écriture audiovisuelle,private,Ile-de-France,www.ceea.edu
+435,Digital Campus Paris,private,Ile-de-France,www.digital-campus.fr
+436,Conservatoire libre du cinéma français,private,Ile-de-France,www.clcf.com
+437,Ecole spéciale d'architecture,private,Ile-de-France,www.esa-paris.fr
+438,European Business School,private,Ile-de-France,www.ebs-paris.fr
+439,Ecole de biologie industrielle,private,Ile-de-France,www.ebi-edu.com
+440,Gobelins Paris - Campus Gambetta,private,Ile-de-France,www.gobelins.fr
+441,IPAG Business School,private,Ile-de-France,www.ipag.edu
+442,Paris American Academy,private,Ile-de-France,www.parisamericanacademy.fr
+443,Cours Florent,private,Ile-de-France,www.coursflorent.fr
+444,Itecom Art Design,private,Ile-de-France,www.itecom-artdesign.com
+445,Ecole nationale supérieure d'architecture Paris La Villette,public,Ile-de-France,www.paris-lavillette.archi.fr
+446,TBS Education,private,Ile-de-France,www.tbs-education.fr
+447,Ecole Camondo Paris,private,Ile-de-France,www.ecolecamondo.fr
+448,1984 School Of Design,private,Ile-de-France,www.1984-ecole.com
+449,Ecole de management de Normandie,private,Ile-de-France,www.em-normandie.com
+450,Spéos Paris - Ecole de photographie,private,Ile-de-France,www.speos-photo.com
+451,Université Paris Nanterre,public,Ile-de-France,sufom.parisnanterre.fr
+452,Ecole de Condé Paris,private,Ile-de-France,www.ecoles-conde.com
+453,Ecole supérieure de vente et d'exportation,private,Ile-de-France,www.esve-paris.com
+454,CESI Ecole d'ingénieurs - campus de Caen,private,Normandie,ecole-ingenieurs.cesi.fr
+455,Institut polytechnique UniLaSalle - campus de Rouen,private,Normandie,www.unilasalle.fr
+456,Université de Rouen Normandie,public,Normandie,www.univ-rouen.fr
+457,Ecole de gestion et de commerce de Normandie,private,Normandie,www.egcnormandie.fr
+458,Ecole nationale supérieure maritime - site du Havre,public,Normandie,www.supmaritime.fr
+459,Institut national des sciences appliquées de Rouen Normandie - site du Havre,public,Normandie,www.insa-rouen.fr
+460,Ecole nationale supérieure d'ingénieurs de Caen et centre de recherche,public,Normandie,www.ensicaen.fr
+461,Builders Ecole d'ingénieurs - site de Caen (ex ESITC Caen),private,Normandie,builders-ingenieurs.fr
+462,Ecole supérieure d'arts et médias de Caen - Cherbourg (site de Caen),public,Normandie,www.esam-c2.fr
+463,Université de Caen Normandie,public,Normandie,www.unicaen.fr
+464,Ecole de management de Normandie,private,Normandie,www.em-normandie.com
+465,Centre de formation des enseignants de la danse et de la musique de Normandie,public,Normandie,www.cefedem-normandie.com
+466,CESI Ecole d'ingénieurs - campus de Rouen,private,Normandie,rouen.cesi.fr
+467,Ecole Brassart Caen,private,Normandie,www.brassart.fr
+468,Ecole supérieure d'art et design Le Havre-Rouen (site du Havre),public,Normandie,esadhar.fr
+469,Neoma Business School,private,Normandie,www.neoma-bs.fr
+470,Institut national des sciences et techniques nucléaires,public,Normandie,instn.cea.fr
+471,Ecole nationale supérieure d'architecture de Normandie,public,Normandie,www.rouen.archi.fr
+472,ESIGELEC - site de Rouen,private,Normandie,www.esigelec.fr
+473,IPAC Bachelor Factory,private,Normandie,www.ipacbachelorfactory.com
+474,Institut supérieur de l'électronique et du numérique Ouest - campus de Caen,private,Normandie,isen-caen.fr
+475,Campus de Caen de l'Institut d'études politiques de Rennes,public,Normandie,www.sciencespo-rennes.fr
+476,Université Le Havre Normandie,public,Normandie,www.univ-lehavre.fr
+477,ESME - campus de Bordeaux,private,Nouvelle-Aquitaine,www.esme.fr
+478,Vatel - campus de Bordeaux,private,Nouvelle-Aquitaine,www.vatel.fr
+479,École nationale supérieure de cognitique,public,Nouvelle-Aquitaine,ensc.bordeaux-inp.fr
+480,"L'Atelier, école de cinéma d'animation",private,Nouvelle-Aquitaine,ecolelatelier.com
+481,Pôle d'enseignement supérieur de musique et de danse Bordeaux Nouvelle-Aquitaine,private,Nouvelle-Aquitaine,www.pesmd.com
+482,"Ecole nationale supérieure de matériaux, d'agroalimentaire et de chimie",public,Nouvelle-Aquitaine,ensmac.bordeaux-inp.fr
+483,CESI Ecole d'ingénieurs - campus de La Rochelle,private,Nouvelle-Aquitaine,www.cesi.fr
+484,École supérieure des Beaux-Arts de Bordeaux,public,Nouvelle-Aquitaine,www.ebabx.fr
+485,Bordeaux INP,public,Nouvelle-Aquitaine,www.ipb.fr
+486,Université de Limoges,public,Nouvelle-Aquitaine,www.unilim.fr
+487,École de gestion et de commerce - Sud Management Business school,private,Nouvelle-Aquitaine,www.sudmanagementbs.fr
+488,INSEEC Grande Ecole,private,Nouvelle-Aquitaine,www.inseec.com
+489,ESSCA école de management,private,Nouvelle-Aquitaine,www.essca.fr
+490,Université de Bordeaux,public,Nouvelle-Aquitaine,www.u-bordeaux.fr
+491,3iL Ingénieurs - site de Limoges,private,Nouvelle-Aquitaine,www.3il-ingenieurs.fr
+492,École supérieure de design des Landes,private,Nouvelle-Aquitaine,www.esdl.fr
+493,Junia Institut supérieur de l'électronique et du numérique - campus de Bordeaux,private,Nouvelle-Aquitaine,www.junia.com
+494,Ecole Brassart Bordeaux,private,Nouvelle-Aquitaine,www.brassart.fr
+495,ENS pour la performance industrielle et la maintenance aéronautique,public,Nouvelle-Aquitaine,enspima.bordeaux-inp.fr
+496,École d'ingénieurs généralistes,private,Nouvelle-Aquitaine,www.eigsi.fr
+497,Université de Pau et des Pays de l'Adour,public,Nouvelle-Aquitaine,www.univ-pau.fr
+498,École de Condé Bordeaux,private,Nouvelle-Aquitaine,www.ecoles-conde.com
+499,L'institut supérieur des arts appliqués - LISAA Bordeaux,private,Nouvelle-Aquitaine,www.lisaa.com
+500,École européenne supérieure de l'image Angoulême Poitiers,public,Nouvelle-Aquitaine,www.eesi.eu
+501,École nationale supérieure d'arts et métiers - campus Arts et Métiers de Bordeaux Talence,public,Nouvelle-Aquitaine,artsetmetiers.fr
+502,École supérieure des technologies industrielles avancées,public,Nouvelle-Aquitaine,www.estia.fr
+503,Sciences Po Bordeaux,public,Nouvelle-Aquitaine,www.sciencespobordeaux.fr
+504,Human Academy,private,Nouvelle-Aquitaine,eu.athuman.com
+505,Université de Poitiers,public,Nouvelle-Aquitaine,www.univ-poitiers.fr
+506,Objectif 3D,private,Nouvelle-Aquitaine,www.objectif3d.com
+507,La Rochelle Université,public,Nouvelle-Aquitaine,www.univ-larochelle.fr
+508,École supérieure d'art Pays Basque - Villa des Rocailles,public,Nouvelle-Aquitaine,www.esa-paysbasque.fr
+509,ECV Creative schools & Community,private,Nouvelle-Aquitaine,www.ecv.fr
+510,"Ecole nationale supérieure d'électronique, informatique, télécommunications, mathématiques et mécanique de Bordeaux",public,Nouvelle-Aquitaine,www.enseirb-matmeca.bordeaux-inp.fr
+511,Ecole nationale supérieure d'art et de design Limoges,public,Nouvelle-Aquitaine,www.ensad-limoges.fr
+512,IDRAC Business School,private,Nouvelle-Aquitaine,idrac-bs.fr
+513,École nationale supérieure de technologie des biomolécules de Bordeaux,public,Nouvelle-Aquitaine,enstbb.bordeaux-inp.fr
+514,IDAIC école des métiers du commerce et du management,private,Nouvelle-Aquitaine,www.idaic-poitiers.com
+515,e-artsup Bordeaux,private,Nouvelle-Aquitaine,www.e-artsup.net
+516,Excelia Business School,private,Nouvelle-Aquitaine,www.excelia-group.com
+517,ESIGELEC - site de Poitiers,private,Nouvelle-Aquitaine,www.esigelec.fr
+518,CESI Ecole d'ingénieurs - campus de Bordeaux,private,Nouvelle-Aquitaine,ecole-ingenieurs.cesi.fr
+519,Alliance européenne - Périgueux Business School,private,Nouvelle-Aquitaine,perigueuxbusiness-school.com
+520,École nationale supérieure d'architecture et de paysage de Bordeaux,public,Nouvelle-Aquitaine,www.bordeaux.archi.fr
+521,Institut de formation aux affaires et à la gestion,private,Nouvelle-Aquitaine,www.ifag.com
+522,CY Tech - campus de Pau (exEISTI),public,Nouvelle-Aquitaine,cytech.cyu.fr
+523,CESI Ecole d'ingénieurs - campus de Pau,private,Nouvelle-Aquitaine,pau.cesi.fr
+524,MJM Graphic Design,private,Nouvelle-Aquitaine,www.mjm-design.com
+525,"École nationale supérieure en environnement, géoressources et ingénierie du développement durable",public,Nouvelle-Aquitaine,ensegid.bordeaux-inp.fr
+526,Institut international de l'image et du son - 3IS Education Bordeaux,private,Nouvelle-Aquitaine,3is-education.fr
+527,EFREI - campus de Bordeaux,private,Nouvelle-Aquitaine,www.efrei.fr
+528,Kedge Business School,private,Nouvelle-Aquitaine,www.kedge.edu
+529,École du management de la culture et du marché de l'art,private,Nouvelle-Aquitaine,www.icart.fr
+530,École supérieure des techniques aéronautiques et de construction automobile - Bordeaux,private,Nouvelle-Aquitaine,www.estaca.fr
+531,ESG Bordeaux,private,Nouvelle-Aquitaine,www.esg.fr
+532,École supérieure de commerce et d'économie numérique,private,Nouvelle-Aquitaine,www.escen.fr
+533,École d'ingénieurs des sciences aérospatiales - campus de Bordeaux,private,Nouvelle-Aquitaine,www.elisa-aerospace.fr
+534,Pôle Aliénor,public,Nouvelle-Aquitaine,www.polealienor.eu
+535,Ecole de gestion et de commerce de Brive,private,Nouvelle-Aquitaine,www.correze.cci.fr
+536,ESMOD international,private,Nouvelle-Aquitaine,www.esmod.com
+537,Université Bordeaux Montaigne,public,Nouvelle-Aquitaine,www.u-bordeaux-montaigne.fr
+538,École supérieure d'art et de design des Pyrénées,public,Nouvelle-Aquitaine,www.esad-pyrenees.fr
+539,École des métiers du cinéma d'animation,public,Nouvelle-Aquitaine,www.emca-angouleme.fr
+540,École nationale supérieure des sciences agronomiques de Bordeaux Aquitaine,public,Nouvelle-Aquitaine,www.agro-bordeaux.fr
+541,Eklore - Ed School of Management (ESC Pau BS),private,Nouvelle-Aquitaine,www.esc-pau.fr
+542,École nationale supérieure de mécanique et d'aérotechnique,public,Nouvelle-Aquitaine,www.ensma.fr
+543,École de design de Nouvelle-Aquitaine,private,Nouvelle-Aquitaine,www.ecole-design-nouvelle-aquitaine.com
+544,Ecole d'ingénieurs de Purpan - Toulouse INP,private,Occitanie,www.purpan.fr
+545,Institut catholique de Toulouse,private,Occitanie,www.ict-toulouse.fr
+546,Institut supérieur de l'aéronautique et de l'espace,public,Occitanie,www.isae-supaero.fr
+547,IDRAC Business School,private,Occitanie,idrac-bs.fr
+548,Travelling,private,Occitanie,ecole-travelling.com
+549,MJM Graphic Design,private,Occitanie,www.mjm-design.com
+550,Ecole nationale supérieure des mines d'Albi-Carmaux - IMT Mines Albi-Carmaux,public,Occitanie,www.imt-mines-albi.fr
+551,Institut supérieur des arts et du design de Toulouse,public,Occitanie,www.isdat.fr
+552,MBway Montpellier,private,Occitanie,www.mbway.com
+553,Institut polytechnique des sciences avancées - campus de Toulouse,private,Occitanie,www.ipsa.fr
+554,"ISPRA Institut- le campus des métiers du cinéma, tv, son, vfx et films d'animation",private,Occitanie,www.ispra.fr
+555,Sciences Po Toulouse,public,Occitanie,www.sciencespo-toulouse.fr
+556,Institut national universitaire Jean-François Champollion,public,Occitanie,www.univ-jfc.fr
+557,École nationale vétérinaire de Toulouse,public,Occitanie,www.envt.fr
+558,École nationale supérieure de formation de l’enseignement agricole,public,Occitanie,www.ensfea.fr
+559,Studio M,private,Occitanie,www.studio-m.fr
+560,Montpellier Business School,private,Occitanie,www.montpellier-bs.com
+561,"ENS d'électrotechnique, électronique, informatique, hydraulique, télécommunications - Toulouse INP",public,Occitanie,www.enseeiht.fr
+562,Ecole de condé Toulouse,private,Occitanie,ecoles-conde.com
+563,IPAC Bachelor Factory,private,Occitanie,www.ipacbachelorfactory.com
+564,Objectif 3D,private,Occitanie,www.objectif3d.com
+565,Ecole Brassart Toulouse,private,Occitanie,www.brassart.fr
+566,Vatel - campus de Nîmes,private,Occitanie,www.vatel.fr
+567,Université de Nîmes,public,Occitanie,www.unimes.fr
+568,Université de Montpellier,public,Occitanie,www.umontpellier.fr
+569,EPF école d'ingénieurs généralistes - site de Montpellier,private,Occitanie,www.epf.fr
+570,EGC Business School - campus de Nîmes,private,Occitanie,www.egc-occitanie.fr
+571,Université Toulouse III - Paul Sabatier,public,Occitanie,www.univ-tlse3.fr
+572,Université Toulouse - Jean Jaurès,public,Occitanie,www.univ-tlse2.fr
+573,Université Paul-Valéry - Montpellier 3,public,Occitanie,www.univ-montp3.fr
+574,École supérieure des arts du cirque,public,Occitanie,www.esactolido.com
+575,ESG Montpellier,private,Occitanie,www.esg.fr
+576,Institut de formation aux affaires et à la gestion,private,Occitanie,www.ifag.com
+577,Toulouse INP,public,Occitanie,www.inp-toulouse.fr
+578,École supérieure d'art et de design des Pyrénées,public,Occitanie,www.esad-pyrenees.fr
+579,Institut supérieur de gestion,private,Occitanie,www.isg.fr
+580,Institut national des sciences appliquées de Toulouse - site de Toulouse,public,Occitanie,www.insa-toulouse.fr
+581,Ecole technique privée de photographie et de jeu vidéo,private,Occitanie,www.esma-toulouse.com
+582,Institut Agro Montpellier,public,Occitanie,www.montpellier-supagro.fr
+583,TBS Education,private,Occitanie,www.tbs-education.fr
+584,ENSIACET l'école de la transformation de la matière et de l'énergie - Toulouse INP,public,Occitanie,www.ensiacet.fr
+585,L'institut supérieur des arts appliqués - LISAA Toulouse,private,Occitanie,www.lisaa.com
+586,CESI Ecole d'ingénieurs - campus de Toulouse,private,Occitanie,ecole-ingenieurs.cesi.fr
+587,Université de Perpignan Via Domitia,public,Occitanie,sup-enr.univ-perp.fr
+588,Ecole nationale supérieure d'architecture de Toulouse,public,Occitanie,www.toulouse.archi.fr
+589,Ecole 3A,private,Occitanie,www.ecole3a.edu
+590,Institut international du commerce et du développement - groupe IGS,private,Occitanie,www.icd-ecoles.com
+591,Ecole supérieure internationale de la mode,private,Occitanie,www.esimode.fr
+592,e-artsup Toulouse,private,Occitanie,www.e-artsup.net
+593,ESICAD - la compagnie de formation,private,Occitanie,www.esicad.com
+594,Ecole supérieure des beaux-arts de Nîmes,public,Occitanie,www.esba-nimes.fr
+595,Ecole européenne de l'art et des matières,private,Occitanie,www.artematieres.com
+596,Institut catholique d'arts et métiers - site de Toulouse,private,Occitanie,www.icam.fr
+597,MBway Toulouse,private,Occitanie,www.iscom.fr
+598,Ecole technique d'art Anaten,private,Occitanie,www.anaten.fr
+599,AgroParisTech - Centre de Montpellier,public,Occitanie,www.agroparistech.fr
+600,Ecole nationale de l'aviation civile - campus de Toulouse,public,Occitanie,www.enac.fr
+601,Ecole supérieure des métiers artistiques,private,Occitanie,www.esma-artistique.com
+602,Ecole supérieure des beaux-arts de Montpellier (MO.CO.Esba),public,Occitanie,www.moco.art
+603,Ecole nationale supérieure agronomique de Toulouse - Toulouse INP,public,Occitanie,www.ensat.fr
+604,Ecole nationale de la météorologie - Toulouse INP,public,Occitanie,www.enm.meteo.fr
+605,Ecole nationale supérieure des Mines d'Alès - IMT Mines Alès,public,Occitanie,www.mines-ales.fr
+606,Ecole nationale supérieure d'architecture de Montpellier,public,Occitanie,www.montpellier.archi.fr
+607,Ecole de gestion et de commerce de Martinique,private,Outre-mer,www.egc-martinique.com
+608,Ecole de gestion et de commerce du Pacifique Sud,private,Outre-mer,egc.cci.nc
+609,Université de la Polynésie française,public,Outre-mer,www.upf.pf
+610,École de gestion et de commerce de La Réunion,private,Outre-mer,www.egc-reunion.re
+611,Ecole de gestion et de commerce de Guyane,private,Outre-mer,www.egc-guyane.fr
+612,École nationale supérieure d'architecture,public,Outre-mer,www.lareunion-archi.fr
+613,Université de la Nouvelle-Calédonie,public,Outre-mer,unc.nc
+614,École Supérieure d'Art,public,Outre-mer,www.esareunion.com
+615,Institut de l'Image de l'Océan Indien,private,Outre-mer,www.iloi.fr
+616,Université des Antilles,public,Outre-mer,www.univ-antilles.fr
+617,Université de Mayotte,public,Outre-mer,www.univ-mayotte.fr
+618,Campus caraïbéen des arts,public,Outre-mer,cca-martinique.com
+619,Université de La Réunion,public,Outre-mer,ufr-sante.univ-reunion.fr
+620,Université de Guyane,public,Outre-mer,www.univ-guyane.fr
+621,MJM Graphic Design,private,Pays de la Loire,www.mjm-design.com
+622,Ecole nationale supérieure Mines-Télécom Atlantique Bretagne Pays de la Loire - campus de Nantes,public,Pays de la Loire,www.imt-atlantique.fr
+623,Ecole supérieure d'Agro-développement international,private,Pays de la Loire,www.istom.fr
+624,L'École de design Nantes Atlantique,private,Pays de la Loire,www.lecolededesign.com
+625,Institut supérieur de l'électronique et du numérique - campus de Nantes,private,Pays de la Loire,isen-nantes.fr
+626,Audencia Business school,private,Pays de la Loire,www.audencia.com
+627,e-artsup Nantes,private,Pays de la Loire,www.e-artsup.net
+628,Institut des relations publiques et de la communication d’Angers,private,Pays de la Loire,www.ircom.fr
+629,IPAC Bachelor Factory,private,Pays de la Loire,www.ipacbachelorfactory.com
+630,Nantes Université,public,Pays de la Loire,www.univ-nantes.fr
+631,Atelier Guist'hau Rollin - L'école de l'image,private,Pays de la Loire,agr.fr
+632,Université d'Angers,public,Pays de la Loire,www.univ-angers.fr
+633,EPF école d'ingénieurs généralistes - site de Saint-Nazaire,private,Pays de la Loire,www.epf.fr
+634,Institut supérieur des matériaux du Mans - ISMANS CESI Le Mans,private,Pays de la Loire,www.ismans.cesi.fr
+635,L'institut supérieur des arts appliqués - LISAA Nantes,private,Pays de la Loire,www.lisaa.com
+636,Audencia Business School,private,Pays de la Loire,bachelors.audencia.com
+637,Institut Agro Rennes Angers - campus d'Angers,public,Pays de la Loire,www.agrocampus-ouest.fr
+638,Ecole nationale supérieure maritime - site de Nantes,public,Pays de la Loire,www.supmaritime.fr
+639,École nationale supérieure d'arts et métiers - campus Arts et Métiers d'Angers,public,Pays de la Loire,artsetmetiers.fr
+640,Centre national de danse contemporaine,private,Pays de la Loire,www.cndc.fr
+641,Ecole Brassart Nantes,private,Pays de la Loire,www.brassart.fr
+642,Le Mans Université,public,Pays de la Loire,www.univ-lemans.fr
+643,École supérieure d'électronique de l'Ouest - campus Angers,private,Pays de la Loire,www.eseo.fr
+644,Ecole de gestion et de commerce Le Mans,private,Pays de la Loire,www.egc-lemans.com
+645,Institut supérieur du commerce automobile du Mans ISCAM,private,Pays de la Loire,www.escra.fr
+646,Ecole européenne de graphisme publicitaire,private,Pays de la Loire,www.eegp.fr
+647,L'atelier d'arts appliqués,private,Pays de la Loire,laaa.fr
+648,ESSCA école de management,private,Pays de la Loire,www.essca.fr
+649,"École nationale vétérinaire, agroalimentaire et de l'alimentation de Nantes-Atlantique",public,Pays de la Loire,www.oniris-nantes.fr
+650,École supérieure des techniques aéronautiques et de construction automobile - Laval,private,Pays de la Loire,www.estaca.fr
+651,Ecole supérieure des beaux-arts,public,Pays de la Loire,esad-talm.fr
+652,Institut catholique de Vendée,private,Pays de la Loire,www.ices.fr
+653,ECV Creative Schools & Community - ECV Atlantique,private,Pays de la Loire,www.ecv.fr
+654,Ecole des beaux-arts Nantes Saint-Nazaire - site de Saint-Nazaire,public,Pays de la Loire,beauxartsnantes.fr
+655,Ecoles créatives Nantes,private,Pays de la Loire,www.cinecreatis.net
+656,Ecole supérieure des agricultures - campus d'Angers,private,Pays de la Loire,www.groupe-esa.com
+657,Institut de formation aux affaires et à la gestion,private,Pays de la Loire,www.ifag.com
+658,Institut catholique d'arts et métiers - site de Nantes,private,Pays de la Loire,www.icam.fr
+659,CESI Ecole d'ingénieurs - campus de Saint-Nazaire,private,Pays de la Loire,www.cesi.fr
+660,Facultés libres de l'Ouest,private,Pays de la Loire,www.uco.fr
+661,IDRAC Business School,private,Pays de la Loire,idrac-bs.fr
+662,Ecole supérieure d'informatique électronique automatique - campus de Laval,private,Pays de la Loire,www.esiea.fr
+663,École supérieure angevine d'informatique et de productique  - site d'Angers,private,Pays de la Loire,www.esaip.org
+664,Académie supérieure de théâtre d'anjou,private,Pays de la Loire,www.asta-angers.fr
+665,Ecole Pivaut supérieure technique privée d'arts appliqués,private,Pays de la Loire,www.ecole-pivaut.fr
+666,Ecole supérieure du bois - campus de Nantes,private,Pays de la Loire,www.esb-campus.fr
+667,Les Ateliers de l'Image et du Son - AIS formation,private,Provence-Alpes-Côte d'Azur,www.ais-formation.com
+668,CESI Ecole d'ingénieurs - campus de Nice Sophia Antipolis,private,Provence-Alpes-Côte d'Azur,ecole-ingenieurs.cesi.fr
+669,École Intuit-lab,private,Provence-Alpes-Côte d'Azur,www.ecole-intuit-lab.com
+670,École nationale supérieure maritime - site de Marseille,public,Provence-Alpes-Côte d'Azur,www.supmaritime.fr
+671,Pôle National Supérieur de Danse Rosella Hightower,private,Provence-Alpes-Côte d'Azur,www.pnsd.fr
+672,École supérieure angevine d'informatique et de productique - site d'Aix-en-Provence,private,Provence-Alpes-Côte d'Azur,www.esaip.org
+673,Besign - The Sustainable Design School,private,Provence-Alpes-Côte d'Azur,besignschool.com
+674,École nationale supérieure d'arts et métiers - campus Arts et Métiers d'Aix-en-Provence,public,Provence-Alpes-Côte d'Azur,artsetmetiers.fr
+675,Ecole de l'air et de l'espace,public,Provence-Alpes-Côte d'Azur,www.ecole-air-espace.fr
+676,École polytechnique universitaire de l'université d'Aix-Marseille - site de Saint-Jérôme,public,Provence-Alpes-Côte d'Azur,polytech.univ-amu.fr
+677,Kedge Business School,private,Provence-Alpes-Côte d'Azur,kedge.edu
+678,Université de Toulon,public,Provence-Alpes-Côte d'Azur,www.univ-tln.fr
+679,ESID - Nice,private,Provence-Alpes-Côte d'Azur,esid.education
+680,Ecole de Condé Marseille,private,Provence-Alpes-Côte d'Azur,ecoles-conde.com
+681,Ecole nationale supérieure des mines de Saint-Etienne - Campus Provence,public,Provence-Alpes-Côte d'Azur,www.mines-stetienne.fr
+682,"Ecole supérieure de design, d'arts appliqués et de communication (annexe Marseille)",private,Provence-Alpes-Côte d'Azur,ecole-esdac.com
+683,École Supérieure d'Art et de Design Toulon Provence Méditerranée,public,Provence-Alpes-Côte d'Azur,www.esadtpm.fr
+684,My FS - My Fashion School,private,Provence-Alpes-Côte d'Azur,www.my-bs.fr
+685,Institut supérieur de l'électronique et du numérique ISEN Yncréa Méditerranée - campus de Marseille,private,Provence-Alpes-Côte d'Azur,www.isen-mediterranee.fr
+686,Ecole nationale supérieure d'architecture de Marseille,public,Provence-Alpes-Côte d'Azur,www.marseille.archi.fr
+687,École pratique,private,Provence-Alpes-Côte d'Azur,www.ecolepratique.com
+688,Ecole supérieure d'art d'Aix-en-Provence Felix Ciccolini,public,Provence-Alpes-Côte d'Azur,www.esaaix.fr
+689,e-artsup Nice,private,Provence-Alpes-Côte d'Azur,www.e-artsup.net
+690,Ecole Brassart Aix-en-Provence,private,Provence-Alpes-Côte d'Azur,www.brassart.fr
+691,Institut supérieur du bâtiment et des travaux publics,public,Provence-Alpes-Côte d'Azur,www.isba.fr
+692,MJM Graphic Design,private,Provence-Alpes-Côte d'Azur,www.mjm-design.com
+693,ECV Creative Schools & Community,private,Provence-Alpes-Côte d'Azur,www.ecv.fr
+694,Les Beaux-Arts de Marseille - INSEAMM,public,Provence-Alpes-Côte d'Azur,www.esadmm.fr
+695,Ecole de Condé Nice,private,Provence-Alpes-Côte d'Azur,www.ecoles-conde.com
+696,Ecole Brassart - MOPA,private,Provence-Alpes-Côte d'Azur,www.ecole-mopa.fr
+697,Avignon Université,public,Provence-Alpes-Côte d'Azur,univ-avignon.fr
+698,Sciences Po Aix,public,Provence-Alpes-Côte d'Azur,www.sciencespo-aix.fr
+699,SKEMA Business School,private,Provence-Alpes-Côte d'Azur,www.skema-bs.fr
+700,Aix-Marseille Université,public,Provence-Alpes-Côte d'Azur,www.univ-amu.fr
+701,Institut national des sciences et techniques nucléaires,public,Provence-Alpes-Côte d'Azur,instn.cea.fr
+702,Ecole nationale supérieure d'art Villa Arson,public,Provence-Alpes-Côte d'Azur,www.villa-arson.org
+703,Université Côte d'Azur,public,Provence-Alpes-Côte d'Azur,univ-cotedazur.fr
+704,EMD Business School,private,Provence-Alpes-Côte d'Azur,www.emd.fr
+705,EDHEC Business School,private,Provence-Alpes-Côte d'Azur,www.edhec.com
+706,ESG Aix,private,Provence-Alpes-Côte d'Azur,www.esg.fr
+707,Camondo Méditerranée,private,Provence-Alpes-Côte d'Azur,www.ecolecamondo.fr
+708,Ecole régionale d'acteurs de Cannes et Marseille,public,Provence-Alpes-Côte d'Azur,eracm.fr
+709,Ecole supérieure d'arts plastiques de la ville de Monaco Pavillon Bosio,public,Provence-Alpes-Côte d'Azur,www.pavillonbosio.com
+710,EURECOM,private,Provence-Alpes-Côte d'Azur,www.eurecom.fr
+711,Institut supérieur des techniques du son,private,Provence-Alpes-Côte d'Azur,www.esra.edu
+712,École nationale supérieure de la photographie,public,Provence-Alpes-Côte d'Azur,www.ensp-arles.fr
+713,Ecole supérieure d'Art d'Avignon,public,Provence-Alpes-Côte d'Azur,esaavignon.eu
+714,Centrale Méditerranée - Campus de Nice,public,Provence-Alpes-Côte d'Azur,www.centrale-mediterranee.fr
+715,Itecom Art Design,private,Provence-Alpes-Côte d'Azur,www.itecom-artdesign.com
+716,IDRAC Business School - Antenne de Grasse,private,Provence-Alpes-Côte d'Azur,www.ecoles-supdecom.com
+717,IPAG Business School,private,Provence-Alpes-Côte d'Azur,www.ipag.edu
+718,ESSCA école de management,private,Provence-Alpes-Côte d'Azur,www.essca.fr
+719,Institut d'enseignement supérieur de la musique - Europe et Méditerranée - IESM,public,Provence-Alpes-Côte d'Azur,www.iesm.fr
